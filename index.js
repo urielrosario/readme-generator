@@ -53,7 +53,7 @@ inquirer
   ])
 
   .then((data) =>
-    fs.writeFile("./generate.md", generateReadMe(data), function (error) {
+    fs.writeFile("./README.md", generateReadMe(data), function (error) {
       if (error) return console.log(error);
     })
   );
