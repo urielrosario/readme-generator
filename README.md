@@ -9,7 +9,7 @@
 
 ## Description
 
-- It displays Date, Icon Image, Temperature, Humidity, Wind Speeds, UV index and any city!
+- Utilizing Node.Js and inquirer package will be able to generate a README.md
 
 ```
 GIVEN a command-line application that accepts user input
@@ -42,7 +42,7 @@ THEN I am taken to the corresponding section of the README
 
 ## Walkthrough
 
-![walkthrough](images/Screenshot.png)
+![walkthrough](assets/images/demo.gif)
 
 ## Screenshot
 
