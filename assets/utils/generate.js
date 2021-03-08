@@ -1,9 +1,9 @@
 function generateReadMe(data) {
   return `
       # ${data.project} 
+      ![badge](https://img.shields.io/badge/license-${data.license})
 
-     
-  
+
       - LinkedIn Link ${data.linkedin}
       
       - Weather Dashboard is an application to find weather conditions of given city and 5 day forecast.
